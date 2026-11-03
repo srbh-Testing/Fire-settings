@@ -3,10 +3,10 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@android:drawable/ic_menu_preferences"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@android:style/Theme.NoDisplay"
-        android:banner="@android:drawable/ic_menu_preferences">
+        android:banner="@drawable/banner">
 
         <activity
             android:name=".MainActivity"
